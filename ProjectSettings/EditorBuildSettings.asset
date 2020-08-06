@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/etiquetar.unity
+    guid: 60528bba8c43a9248afd849c344b61ef
+  - enabled: 1
+    path: Assets/Scenes/Principal.unity
+    guid: c43b0a214e0ad8e4da1ed5518c3255ee
+  - enabled: 1
+    path: Assets/Scenes/Main/Scenes/Main.unity
+    guid: 048eded9062c4a0489d60ab5686101fd
+  - enabled: 1
+    path: Assets/Scenes/MenuEO.unity
+    guid: d7693e4419090614fa03105565ad6e7b
+  - enabled: 1
+    path: Assets/Scenes/InstruccionEO.unity
+    guid: 2ddc0e1b1b5c97a48ac1cecfe8fe5ec2
+  - enabled: 1
+    path: Assets/Scenes/InstruccionJM.unity
+    guid: 12ef843067aa1814892cc2e861508aa5
+  - enabled: 1
+    path: Assets/Scenes/Laterabilidad.unity
+    guid: 29cd2b28f9f64cf429f2cba05088f742
+  - enabled: 1
+    path: Assets/Scenes/MenuLT.unity
+    guid: c1a46200f09d8034fa7d54f672d126b6
+  - enabled: 1
+    path: Assets/Scenes/MenuJM.unity
+    guid: df5c47c78b47fda44a9da143e698c7f9
+  - enabled: 1
+    path: Assets/Scenes/PalabraEscondida.unity
+    guid: bed119b54efb09d4a9b5b74f3c057990
+  - enabled: 1
+    path: Assets/Scenes/Recomendaciones.unity
+    guid: e4aaa1c8dfca11544b1f4ba62290c199
+  - enabled: 1
+    path: Assets/Scenes/RecomendacionesPE.unity
+    guid: 4374a432ba4a6054aac555af16a12190
+  - enabled: 1
+    path: Assets/Scenes/RecomendacionesJM.unity
+    guid: 9ebc6eaa3e417de4f86a41cd00ad5e0f
+  - enabled: 1
+    path: Assets/Scenes/MenuPE.unity
+    guid: e6bbfa7cecc9b8943b9954f94feef276
+  m_configObjects: {}
